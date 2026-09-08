@@ -1,0 +1,7 @@
+
+echo "my name is Wassi"
+
+echo "i am 22 years old"
+
+echo "My date of birth is NVM"
+
